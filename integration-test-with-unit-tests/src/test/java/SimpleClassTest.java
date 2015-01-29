@@ -6,6 +6,7 @@ public class SimpleClassTest {
 
   @Test
   public void testGetText() throws Exception {
-    assertTrue(true);
+    SimpleClass simpleClass = new SimpleClass();
+    assertEquals("Должно совпасть", "Это текст", simpleClass.getText() );
   }
 }
