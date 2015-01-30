@@ -5,6 +5,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/**
+ * Это класс производящий модульное тестирование
+ */
 public class SimpleClassTest {
 
   @Test

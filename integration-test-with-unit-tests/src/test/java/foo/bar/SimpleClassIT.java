@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Описание
+ * Это класс производящий интеграционное тестирование
  *
  * @author Sergey.Titkov
  * @version 001.00
