@@ -12,3 +12,5 @@
 hs_err_pid*
 .idea/
 *.iml
+integration-test-with-unit-tests/target/
+target/
