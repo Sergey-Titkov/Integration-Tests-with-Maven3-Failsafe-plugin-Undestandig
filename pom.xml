@@ -75,9 +75,9 @@
                 <goal>test</goal>
               </goals>
               <configuration>
-                <excludes>
-                  <exclude>**/*Test.java</exclude>
-                </excludes>
+                <includes>
+                  <include>**/*Test.java</include>
+                </includes>
               </configuration>
             </execution>
           </executions>
