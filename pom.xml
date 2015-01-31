@@ -27,12 +27,6 @@
     <!-- Maven -->
     <maven-compiler.version>2.5.1</maven-compiler.version>
 
-    <!-- ***** -->
-    <!-- Sonar -->
-    <!-- ***** -->
-    <!-- Настройки для расчета покрытия кода тестами -->
-    <sonar.surefire.reportsPath>${project.build.directory}\integration-test-with-unit-tests\target\surefire-reports</sonar.surefire.reportsPath>
-
   </properties>
 
   <modules>
